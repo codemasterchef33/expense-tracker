@@ -78,9 +78,7 @@ function deleteExpense(expenseId) {
         .catch((error) => {
             console.log(error);
         })
-    // console.log(categeory)
-    // localStorage.removeItem(categeory);
-    // removeExpenseFromScreen(categeory);
+ 
 
 }
 
